@@ -21,7 +21,8 @@ public class ExplosionObjectScript : ArrowTargetScript
         foreach(Collider2D enemyCollider in enemiesColliders)
         {
             HealthScript enemyHealth = enemyCollider.GetComponent<HealthScript>();
-            enemyHealth.TakeDamage(damageAmount);
+			if(enemyHealth != null)
+				enemyHealth.TakeDamage(damageAmount);
         }
         Instantiate(explosionEffectPrefab, transform.position, Quaternion.identity);
         onExplosion.Invoke();
