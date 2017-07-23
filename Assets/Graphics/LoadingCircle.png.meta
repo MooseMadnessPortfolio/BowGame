@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 3bea9dc1f57466948b86e6b3fc041d66
+timeCreated: 1494603862
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LoadingCircle_0
+    21300002: LoadingCircle_1
+    21300004: LoadingCircle_2
+    21300006: LoadingCircle_3
+    21300008: LoadingCircle_4
+    21300010: LoadingCircle_5
+    21300012: LoadingCircle_6
+    21300014: LoadingCircle_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LoadingCircle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 37}
+        - {x: -51, y: 32}
+        - {x: -51, y: -25}
+        - {x: -50, y: -32}
+        - {x: -41, y: -37}
+        - {x: -10, y: -37}
+        - {x: -10, y: 28}
+        - {x: -13, y: 37}
+    - name: LoadingCircle_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -29}
+        - {x: -48, y: -35}
+        - {x: -22, y: -52}
+        - {x: 1, y: -52}
+        - {x: 10, y: -46}
+        - {x: 10, y: -15}
+        - {x: -9, y: 10}
+        - {x: -47, y: 10}
+        - {x: -51, y: 3}
+    - name: LoadingCircle_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -9}
+        - {x: -36, y: -24}
+        - {x: -36, y: -41}
+        - {x: -35, y: -44}
+        - {x: -19, y: -52}
+        - {x: 16, y: -52}
+        - {x: 32, y: -50}
+        - {x: 37, y: -40}
+        - {x: 37, y: -20}
+        - {x: 28, y: -9}
+    - name: LoadingCircle_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 8}
+        - {x: 44, y: 9}
+        - {x: 9, y: 9}
+        - {x: -10, y: -22}
+        - {x: -10, y: -47}
+        - {x: -1, y: -52}
+        - {x: 21, y: -52}
+        - {x: 45, y: -33}
+        - {x: 51, y: -22}
+        - {x: 51, y: 0}
+    - name: LoadingCircle_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 37}
+        - {x: 23, y: 36}
+        - {x: 9, y: 24}
+        - {x: 9, y: -25}
+        - {x: 23, y: -36}
+        - {x: 25, y: -37}
+        - {x: 40, y: -37}
+        - {x: 51, y: -22}
+        - {x: 51, y: 23}
+        - {x: 40, y: 37}
+    - name: LoadingCircle_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 52}
+        - {x: -10, y: 50}
+        - {x: -10, y: 15}
+        - {x: 6, y: -11}
+        - {x: 44, y: -11}
+        - {x: 51, y: -6}
+        - {x: 51, y: 19}
+        - {x: 47, y: 35}
+        - {x: 21, y: 52}
+    - name: LoadingCircle_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 52}
+        - {x: -37, y: 44}
+        - {x: -37, y: 9}
+        - {x: 37, y: 9}
+        - {x: 38, y: 11}
+        - {x: 38, y: 39}
+        - {x: 35, y: 52}
+    - name: LoadingCircle_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 52}
+        - {x: -20, y: 52}
+        - {x: -36, y: 49}
+        - {x: -51, y: 19}
+        - {x: -51, y: -11}
+        - {x: -45, y: -15}
+        - {x: -17, y: -15}
+        - {x: 6, y: 20}
+        - {x: 7, y: 24}
+        - {x: 7, y: 40}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

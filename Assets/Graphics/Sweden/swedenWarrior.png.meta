@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 24e1e34b582bd9f4bbd143b421cdf243
+timeCreated: 1494599247
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: swedenWarrior_0
+    21300002: swedenWarrior_1
+    21300004: swedenWarrior_2
+    21300006: swedenWarrior_3
+    21300008: swedenWarrior_4
+    21300010: swedenWarrior_5
+    21300012: swedenWarrior_6
+    21300014: swedenWarrior_7
+    21300016: swedenWarrior_8
+    21300018: swedenWarrior_9
+    21300020: swedenWarrior_10
+    21300022: swedenWarrior_11
+    21300024: swedenWarrior_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: swedenWarrior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.46097606, y: 0.45310533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.84884, y: 21.81746}
+        - {x: -60.84884, y: -94.18254}
+        - {x: -50.84884, y: -113.18254}
+        - {x: -49.84884, y: -114.18254}
+        - {x: 41.15116, y: -114.18254}
+        - {x: 71.15116, y: 22.81746}
+        - {x: 71.15116, y: 137.81746}
+        - {x: 8.151161, y: 137.81746}
+        - {x: -13.848839, y: 130.81746}
+    - name: swedenWarrior_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.8488464, y: 137.81747}
+        - {x: -60.848846, y: 38.817467}
+        - {x: -60.848846, y: -92.18253}
+        - {x: -41.848846, y: -114.18253}
+        - {x: 31.151154, y: -114.18253}
+        - {x: 71.15115, y: 99.81747}
+        - {x: 71.15115, y: 137.81747}
+    - name: swedenWarrior_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.151154, y: 137.81747}
+        - {x: -49.848846, y: 57.817467}
+        - {x: -60.848846, y: -9.182533}
+        - {x: -60.848846, y: -69.18253}
+        - {x: -38.848846, y: -113.18253}
+        - {x: 15.151154, y: -113.18253}
+        - {x: 21.151154, y: -112.18253}
+        - {x: 71.15115, y: 71.81747}
+        - {x: 71.15115, y: 137.81747}
+    - name: swedenWarrior_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.848846, y: 137.81747}
+        - {x: -60.848846, y: 54.817467}
+        - {x: -60.848846, y: -114.18253}
+        - {x: 27.151154, y: -114.18253}
+        - {x: 31.151154, y: -108.18253}
+        - {x: 71.15115, y: 72.81747}
+        - {x: 71.15115, y: 137.81747}
+      - - {x: -57.848846, y: 133.81747}
+        - {x: -57.848846, y: 136.81747}
+        - {x: -60.848846, y: 137.81747}
+        - {x: -60.848846, y: 132.81747}
+    - name: swedenWarrior_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.848816, y: 136.81747}
+        - {x: -60.848816, y: 58.817467}
+        - {x: -60.848816, y: -114.18253}
+        - {x: 20.151184, y: -114.18253}
+        - {x: 26.151184, y: -88.18253}
+        - {x: 71.151184, y: 82.81747}
+        - {x: 71.151184, y: 136.81747}
+    - name: swedenWarrior_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.151184, y: 136.81747}
+        - {x: 0.15118408, y: 113.81747}
+        - {x: 12.151184, y: 87.81747}
+        - {x: 15.151184, y: 86.81747}
+        - {x: 17.151184, y: 86.81747}
+        - {x: 11.151184, y: 87.81747}
+        - {x: -31.848816, y: 110.81747}
+        - {x: -60.848816, y: 23.817467}
+        - {x: -60.848816, y: -94.18253}
+        - {x: -34.848816, y: -114.18253}
+        - {x: 37.151184, y: -114.18253}
+        - {x: 71.151184, y: 93.81747}
+        - {x: 71.151184, y: 136.81747}
+    - name: swedenWarrior_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.151184, y: 137.81747}
+        - {x: 18.151184, y: 137.81747}
+        - {x: -41.848816, y: 62.817467}
+        - {x: -60.848816, y: 26.817467}
+        - {x: -60.848816, y: -114.18253}
+        - {x: 12.151184, y: -114.18253}
+        - {x: 27.151184, y: -101.18253}
+        - {x: 34.151184, y: -92.18253}
+        - {x: 71.151184, y: 78.81747}
+    - name: swedenWarrior_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.151184, y: 137.81747}
+        - {x: -60.848816, y: 83.81747}
+        - {x: -60.848816, y: -55.182533}
+        - {x: -52.848816, y: -58.182533}
+        - {x: -44.848816, y: -114.18253}
+        - {x: 18.151184, y: -114.18253}
+        - {x: 35.151184, y: -106.18253}
+        - {x: 71.151184, y: 43.817467}
+        - {x: 71.151184, y: 137.81747}
+    - name: swedenWarrior_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.151123, y: 77.81747}
+        - {x: 71.15112, y: 117.81747}
+        - {x: 71.15112, y: 137.81747}
+        - {x: 35.151123, y: 137.81747}
+        - {x: 10.151123, y: 131.81747}
+        - {x: -40.848877, y: 52.817467}
+        - {x: -60.848877, y: -1.1825333}
+        - {x: -60.848877, y: -77.18253}
+        - {x: -44.848877, y: -114.18253}
+        - {x: 8.151123, y: -114.18253}
+        - {x: 20.151123, y: -108.18253}
+        - {x: 37.151123, y: -51.182533}
+        - {x: 39.151123, y: 74.81747}
+    - name: swedenWarrior_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.151123, y: 137.81747}
+        - {x: -55.848877, y: 48.817467}
+        - {x: -60.848877, y: 19.817467}
+        - {x: -60.848877, y: -81.18253}
+        - {x: -37.848877, y: -114.18253}
+        - {x: 26.151123, y: -114.18253}
+        - {x: 39.151123, y: -81.18253}
+        - {x: 71.15112, y: 100.81747}
+        - {x: 71.15112, y: 137.81747}
+    - name: swedenWarrior_10
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.151123, y: 137.81747}
+        - {x: -24.848877, y: 81.81747}
+        - {x: -24.848877, y: -77.18253}
+        - {x: -20.848877, y: -114.18253}
+        - {x: 34.151123, y: -114.18253}
+        - {x: 61.151123, y: -72.18253}
+        - {x: 61.151123, y: 137.81747}
+    - name: swedenWarrior_11
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.45310533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.151123, y: 134.81746}
+        - {x: -16.848877, y: 69.81746}
+        - {x: -16.848877, y: -114.18254}
+        - {x: 68.15112, y: -114.18254}
+        - {x: 68.15112, y: 134.81746}
+    - name: swedenWarrior_12
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 132
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4609761, y: 0.4531053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.151123, y: 135.81747}
+        - {x: -19.848877, y: 135.81747}
+        - {x: -19.848877, y: -90.18253}
+        - {x: -16.848877, y: -113.18253}
+        - {x: 51.151123, y: -113.18253}
+        - {x: 63.151123, y: -87.18253}
+        - {x: 63.151123, y: 18.817467}
+        - {x: 17.151123, y: 131.81747}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

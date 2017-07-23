@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 86fae9ba91da1a547a1335dde2889827
+timeCreated: 1494613499
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: osman-big_0
+    21300002: osman-big_1
+    21300004: osman-big_2
+    21300006: osman-big_3
+    21300008: osman-big_4
+    21300010: osman-big_5
+    21300012: osman-big_6
+    21300014: osman-big_7
+    21300016: osman-big_8
+    21300018: osman-big_9
+    21300020: osman-big_10
+    21300022: osman-big_11
+    21300024: osman-big_12
+    21300026: osman-big_13
+    21300028: osman-big_14
+    21300030: osman-big_15
+    21300032: osman-big_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: osman-big_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.41456306, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.720398, y: 12}
+        - {x: 80.7204, y: 58}
+        - {x: 80.7204, y: 63}
+        - {x: 71.7204, y: 92}
+        - {x: 31.720398, y: 126}
+        - {x: 3.720398, y: 126}
+        - {x: -51.279602, y: 64}
+        - {x: -76.2796, y: -13}
+        - {x: -76.2796, y: -128}
+        - {x: -43.279602, y: -144}
+        - {x: 107.7204, y: -144}
+        - {x: 107.7204, y: 1}
+        - {x: 104.7204, y: 17}
+        - {x: 70.7204, y: 16}
+        - {x: 62.720398, y: 13}
+    - name: osman-big_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5153162, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.181824, y: 141}
+        - {x: 6.1818237, y: 137}
+        - {x: -46.818176, y: 81}
+        - {x: -66.81818, y: 35}
+        - {x: -79.81818, y: -1}
+        - {x: -82.81818, y: -9}
+        - {x: -82.81818, y: -95}
+        - {x: -52.818176, y: -137}
+        - {x: -3.8181763, y: -154}
+        - {x: 30.181824, y: -154}
+        - {x: 87.18182, y: -117}
+        - {x: 88.18182, y: -114}
+        - {x: 88.18182, y: 93}
+        - {x: 33.181824, y: 141}
+    - name: osman-big_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5271394, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.00635, y: 71}
+        - {x: 74.00635, y: 123}
+        - {x: 41.006348, y: 154}
+        - {x: 12.006348, y: 154}
+        - {x: 6.0063477, y: 151}
+        - {x: 8.006348, y: 117}
+        - {x: -33.993652, y: 109}
+        - {x: -52.993652, y: 95}
+        - {x: -81.99365, y: 7}
+        - {x: -81.99365, y: -92}
+        - {x: -71.99365, y: -152}
+        - {x: -67.99365, y: -153}
+        - {x: 55.006348, y: -153}
+        - {x: 76.00635, y: -143}
+        - {x: 65.00635, y: -88}
+        - {x: 87.00635, y: -34}
+    - name: osman-big_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5252009, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.36304, y: 69}
+        - {x: 75.36304, y: 124}
+        - {x: 41.363037, y: 154}
+        - {x: 8.363037, y: 154}
+        - {x: 4.363037, y: 152}
+        - {x: -39.636963, y: 106}
+        - {x: -81.63696, y: 22}
+        - {x: -81.63696, y: -125}
+        - {x: -78.63696, y: -146}
+        - {x: -71.63696, y: -153}
+        - {x: 57.363037, y: -153}
+        - {x: 69.36304, y: -138}
+        - {x: 63.363037, y: -86}
+        - {x: 87.36304, y: -41}
+    - name: osman-big_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52616984, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.18475, y: -87}
+        - {x: 87.18475, y: -54}
+        - {x: 87.18475, y: 95}
+        - {x: 83.18475, y: 127}
+        - {x: 58.184753, y: 154}
+        - {x: 9.184753, y: 154}
+        - {x: -12.815247, y: 127}
+        - {x: -46.815247, y: 113}
+        - {x: -81.81525, y: 34}
+        - {x: -81.81525, y: -82}
+        - {x: -68.81525, y: -153}
+        - {x: 43.184753, y: -153}
+        - {x: 48.184753, y: -152}
+        - {x: 52.184753, y: -145}
+        - {x: 52.184753, y: -135}
+        - {x: 38.184753, y: -121}
+    - name: osman-big_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52616984, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.18475, y: 69}
+        - {x: 75.18475, y: 124}
+        - {x: 41.184753, y: 154}
+        - {x: 1.1847534, y: 154}
+        - {x: -63.815247, y: 78}
+        - {x: -81.81525, y: 7}
+        - {x: -81.81525, y: -86}
+        - {x: -66.81525, y: -153}
+        - {x: 43.184753, y: -153}
+        - {x: 61.184753, y: -131}
+        - {x: 64.18475, y: -86}
+        - {x: 87.18475, y: -42}
+    - name: osman-big_6
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5252009, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.36304, y: -42}
+        - {x: 87.36304, y: 69}
+        - {x: 75.36304, y: 124}
+        - {x: 46.363037, y: 154}
+        - {x: 10.363037, y: 154}
+        - {x: -27.636963, y: 124}
+        - {x: -70.63696, y: 82}
+        - {x: -81.63696, y: 13}
+        - {x: -81.63696, y: -76}
+        - {x: -57.636963, y: -152}
+        - {x: -33.636963, y: -153}
+        - {x: 39.363037, y: -153}
+        - {x: 48.363037, y: -144}
+        - {x: 32.363037, y: -120}
+        - {x: 59.363037, y: -95}
+    - name: osman-big_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52326167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.71985, y: 102}
+        - {x: 51.71985, y: 154}
+        - {x: 3.7198486, y: 154}
+        - {x: -28.280151, y: 124}
+        - {x: -70.28015, y: 82}
+        - {x: -81.28015, y: 9}
+        - {x: -81.28015, y: -74}
+        - {x: -80.28015, y: -77}
+        - {x: -57.28015, y: -144}
+        - {x: -51.28015, y: -152}
+        - {x: -26.280151, y: -153}
+        - {x: 41.71985, y: -153}
+        - {x: 56.71985, y: -143}
+        - {x: 59.71985, y: -95}
+        - {x: 87.71985, y: -42}
+    - name: osman-big_8
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52713877, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.00647, y: 88}
+        - {x: 73.00647, y: 122}
+        - {x: 35.00647, y: 154}
+        - {x: 14.00647, y: 154}
+        - {x: 11.00647, y: 150}
+        - {x: -45.99353, y: 114}
+        - {x: -81.99353, y: 23}
+        - {x: -81.99353, y: -114}
+        - {x: -73.99353, y: -150}
+        - {x: -51.99353, y: -153}
+        - {x: 70.00647, y: -153}
+        - {x: 61.00647, y: -86}
+        - {x: 87.00647, y: -40}
+        - {x: 87.00647, y: 68}
+    - name: osman-big_9
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52326167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.71985, y: -40}
+        - {x: 87.71985, y: 65}
+        - {x: 79.71985, y: 126}
+        - {x: 43.71985, y: 154}
+        - {x: 6.7198486, y: 154}
+        - {x: 3.7198486, y: 153}
+        - {x: -37.28015, y: 120}
+        - {x: -81.28015, y: 31}
+        - {x: -81.28015, y: -86}
+        - {x: -74.28015, y: -154}
+        - {x: 46.71985, y: -154}
+        - {x: 45.71985, y: -145}
+        - {x: 35.71985, y: -133}
+        - {x: 62.71985, y: -87}
+    - name: osman-big_10
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52713877, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.00647, y: 154}
+        - {x: 14.00647, y: 154}
+        - {x: 11.00647, y: 150}
+        - {x: 8.00647, y: 117}
+        - {x: -39.99353, y: 106}
+        - {x: -60.99353, y: 77}
+        - {x: -81.99353, y: 3}
+        - {x: -81.99353, y: -82}
+        - {x: -73.99353, y: -139}
+        - {x: -61.99353, y: -153}
+        - {x: 46.00647, y: -153}
+        - {x: 71.00647, y: -148}
+        - {x: 87.00647, y: -60}
+        - {x: 87.00647, y: 73}
+        - {x: 73.00647, y: 122}
+    - name: osman-big_11
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5261695, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.184814, y: 69}
+        - {x: 75.184814, y: 124}
+        - {x: 41.184814, y: 154}
+        - {x: 12.184814, y: 154}
+        - {x: 6.1848145, y: 151}
+        - {x: -46.815186, y: 114}
+        - {x: -81.815186, y: 41}
+        - {x: -81.815186, y: -85}
+        - {x: -66.815186, y: -149}
+        - {x: -49.815186, y: -153}
+        - {x: 42.184814, y: -153}
+        - {x: 58.184814, y: -142}
+        - {x: 60.184814, y: -95}
+        - {x: 87.184814, y: -42}
+    - name: osman-big_12
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5252009, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.36304, y: 124}
+        - {x: 41.363037, y: 154}
+        - {x: 12.363037, y: 154}
+        - {x: 6.363037, y: 151}
+        - {x: -44.636963, y: 112}
+        - {x: -81.63696, y: 14}
+        - {x: -81.63696, y: -71}
+        - {x: -80.63696, y: -77}
+        - {x: -55.636963, y: -148}
+        - {x: -52.636963, y: -153}
+        - {x: 38.363037, y: -153}
+        - {x: 56.363037, y: -139}
+        - {x: 87.36304, y: -47}
+        - {x: 87.36304, y: 69}
+    - name: osman-big_13
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52519953, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.36328, y: 69}
+        - {x: 75.36328, y: 124}
+        - {x: 46.36328, y: 154}
+        - {x: 10.363281, y: 154}
+        - {x: -28.636719, y: 124}
+        - {x: -70.63672, y: 82}
+        - {x: -81.63672, y: 9}
+        - {x: -81.63672, y: -73}
+        - {x: -58.63672, y: -149}
+        - {x: -56.63672, y: -153}
+        - {x: 45.36328, y: -153}
+        - {x: 58.36328, y: -136}
+        - {x: 61.36328, y: -85}
+        - {x: 87.36328, y: -40}
+    - name: osman-big_14
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.528108, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.828125, y: -56}
+        - {x: 86.828125, y: 96}
+        - {x: 74.828125, y: 124}
+        - {x: 40.828125, y: 154}
+        - {x: 0.828125, y: 154}
+        - {x: -64.171875, y: 78}
+        - {x: -81.171875, y: -2}
+        - {x: -82.171875, y: -17}
+        - {x: -82.171875, y: -59}
+        - {x: -67.171875, y: -153}
+        - {x: 36.828125, y: -153}
+        - {x: 53.828125, y: -146}
+        - {x: 47.828125, y: -127}
+        - {x: 78.828125, y: -91}
+    - name: osman-big_15
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5261708, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.18457, y: 130}
+        - {x: 32.18457, y: 154}
+        - {x: 14.18457, y: 154}
+        - {x: 11.18457, y: 150}
+        - {x: -39.81543, y: 106}
+        - {x: -57.81543, y: 76}
+        - {x: -81.81543, y: -8}
+        - {x: -81.81543, y: -61}
+        - {x: -77.81543, y: -153}
+        - {x: 63.18457, y: -153}
+        - {x: 70.18457, y: -141}
+        - {x: 87.18457, y: -98}
+        - {x: 87.18457, y: 111}
+    - name: osman-big_16
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 184
+        height: 308
+      alignment: 9
+      pivot: {x: 0.52423096, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.541504, y: 111}
+        - {x: 50.541504, y: 154}
+        - {x: 14.541504, y: 154}
+        - {x: 11.541504, y: 150}
+        - {x: 8.541504, y: 117}
+        - {x: -48.458496, y: 117}
+        - {x: -81.458496, y: 11}
+        - {x: -81.458496, y: -108}
+        - {x: -67.458496, y: -153}
+        - {x: 54.541504, y: -153}
+        - {x: 70.541504, y: -141}
+        - {x: 67.541504, y: -96}
+        - {x: 87.541504, y: -38}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

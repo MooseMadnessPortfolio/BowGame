@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 6fe52828c7a219141b76dcc579a28faf
+timeCreated: 1494607236
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: osman-small_0
+    21300002: osman-small_1
+    21300004: osman-small_2
+    21300006: osman-small_3
+    21300008: osman-small_4
+    21300010: osman-small_5
+    21300012: osman-small_6
+    21300014: osman-small_7
+    21300016: osman-small_8
+    21300018: osman-small_9
+    21300020: osman-small_10
+    21300022: osman-small_11
+    21300024: osman-small_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: osman-small_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 94}
+        - {x: -59, y: 78}
+        - {x: -59, y: -23}
+        - {x: -28, y: -52}
+        - {x: -27, y: -53}
+        - {x: -27, y: -55}
+        - {x: -30, y: -50}
+        - {x: -39, y: -51}
+        - {x: -47, y: -60}
+        - {x: -49, y: -77}
+        - {x: -16, y: -94}
+        - {x: 36, y: -94}
+        - {x: 58, y: -45}
+        - {x: 58, y: 88}
+        - {x: 46, y: 94}
+    - name: osman-small_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.69388, y: 94}
+        - {x: -43.69388, y: -81}
+        - {x: -23.693878, y: -92}
+        - {x: 30.306122, y: -92}
+        - {x: 50.30612, y: -39}
+        - {x: 50.30612, y: 73}
+        - {x: 30.306122, y: 94}
+    - name: osman-small_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.612244, y: 27}
+        - {x: 38.612244, y: 37}
+        - {x: 32.612244, y: 39}
+        - {x: 48.612244, y: 48}
+        - {x: 50.612244, y: 54}
+        - {x: 50.612244, y: 73}
+        - {x: 27.612244, y: 94}
+        - {x: -13.387756, y: 94}
+        - {x: -34.387756, y: 86}
+        - {x: -34.387756, y: -71}
+        - {x: -30.387756, y: -90}
+        - {x: -20.387756, y: -91}
+        - {x: 14.612244, y: -91}
+        - {x: 23.612244, y: -85}
+        - {x: 47.612244, y: -49}
+        - {x: 50.612244, y: -26}
+    - name: osman-small_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.418365, y: 93}
+        - {x: -9.5816345, y: 93}
+        - {x: -45.581635, y: 88}
+        - {x: -46.581635, y: 84}
+        - {x: -46.581635, y: -74}
+        - {x: -40.581635, y: -91}
+        - {x: -37.581635, y: -92}
+        - {x: 34.418365, y: -92}
+        - {x: 62.418365, y: -56}
+        - {x: 62.418365, y: 42}
+        - {x: 51.418365, y: 71}
+    - name: osman-small_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.224487, y: 92}
+        - {x: -22.775513, y: 92}
+        - {x: -27.775513, y: 91}
+        - {x: -41.775513, y: 72}
+        - {x: -55.775513, y: 23}
+        - {x: -55.775513, y: -30}
+        - {x: -35.775513, y: -42}
+        - {x: -27.775513, y: -45}
+        - {x: -27.775513, y: -51}
+        - {x: -26.775513, y: -56}
+        - {x: -27.775513, y: -55}
+        - {x: -27.775513, y: -50}
+        - {x: -28.775513, y: -44}
+        - {x: -46.775513, y: -46}
+        - {x: -55.775513, y: -56}
+        - {x: -49.775513, y: -91}
+        - {x: -38.775513, y: -92}
+        - {x: 30.224487, y: -92}
+        - {x: 47.224487, y: -75}
+        - {x: 76.22449, y: -32}
+        - {x: 76.22449, y: 43}
+    - name: osman-small_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.46936, y: 93}
+        - {x: -48.46936, y: 56}
+        - {x: -48.46936, y: -45}
+        - {x: -40.46936, y: -90}
+        - {x: -32.46936, y: -91}
+        - {x: 32.53064, y: -91}
+        - {x: 65.53064, y: -76}
+        - {x: 65.53064, y: 83}
+        - {x: 46.53064, y: 93}
+    - name: osman-small_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.66327, y: 94}
+        - {x: -39.66327, y: 82}
+        - {x: -39.66327, y: -39}
+        - {x: -35.66327, y: -40}
+        - {x: -29.663269, y: -39}
+        - {x: -38.66327, y: -69}
+        - {x: -35.66327, y: -81}
+        - {x: -16.663269, y: -91}
+        - {x: 22.336731, y: -91}
+        - {x: 52.33673, y: -64}
+        - {x: 52.33673, y: 76}
+        - {x: 33.33673, y: 94}
+    - name: osman-small_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.857178, y: 94}
+        - {x: -34.857178, y: 80}
+        - {x: -34.857178, y: -91}
+        - {x: 15.142822, y: -91}
+        - {x: 20.142822, y: -88}
+        - {x: 51.142822, y: -27}
+        - {x: 51.142822, y: 79}
+        - {x: 29.142822, y: 94}
+    - name: osman-small_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.551025, y: 94}
+        - {x: -43.551025, y: 79}
+        - {x: -48.551025, y: 7}
+        - {x: -48.551025, y: -24}
+        - {x: -46.551025, y: -31}
+        - {x: -48.551025, y: -78}
+        - {x: -20.551025, y: -94}
+        - {x: 49.448975, y: -94}
+        - {x: 52.448975, y: -77}
+        - {x: 52.448975, y: 93}
+        - {x: 47.448975, y: 94}
+    - name: osman-small_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.744873, y: 94}
+        - {x: -58.744873, y: 32}
+        - {x: -58.744873, y: -16}
+        - {x: -24.744873, y: -53}
+        - {x: -21.744873, y: -57}
+        - {x: -21.744873, y: -58}
+        - {x: -23.744873, y: -55}
+        - {x: -27.744873, y: -51}
+        - {x: -33.744873, y: -51}
+        - {x: -43.744873, y: -57}
+        - {x: -43.744873, y: -74}
+        - {x: -7.744873, y: -94}
+        - {x: 25.255127, y: -94}
+        - {x: 37.255127, y: -92}
+        - {x: 63.255127, y: -32}
+        - {x: 63.255127, y: 78}
+        - {x: 29.255127, y: 94}
+    - name: osman-small_10
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.93872, y: 94}
+        - {x: -55.93872, y: 91}
+        - {x: -55.93872, y: -23}
+        - {x: -40.93872, y: -38}
+        - {x: -34.93872, y: -90}
+        - {x: 50.06128, y: -90}
+        - {x: 55.06128, y: -70}
+        - {x: 55.06128, y: 93}
+        - {x: 52.06128, y: 94}
+    - name: osman-small_11
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.63257, y: 94}
+        - {x: -38.63257, y: -59}
+        - {x: -33.63257, y: -89}
+        - {x: 29.367432, y: -89}
+        - {x: 52.36743, y: -48}
+        - {x: 52.36743, y: 88}
+        - {x: 35.36743, y: 94}
+    - name: osman-small_12
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 164
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.673462, y: 94}
+        - {x: -47.326538, y: 94}
+        - {x: -47.326538, y: -55}
+        - {x: -32.326538, y: -90}
+        - {x: 44.673462, y: -90}
+        - {x: 62.673462, y: -43}
+        - {x: 62.673462, y: 40}
+        - {x: 51.673462, y: 74}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

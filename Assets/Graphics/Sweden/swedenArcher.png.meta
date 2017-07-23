@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: a51449ed3ef711b4cbb733c14740c498
+timeCreated: 1494589392
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: swedenArcher_0
+    21300002: swedenArcher_1
+    21300004: swedenArcher_2
+    21300006: swedenArcher_3
+    21300008: swedenArcher_4
+    21300010: swedenArcher_5
+    21300012: swedenArcher_6
+    21300014: swedenArcher_7
+    21300016: swedenArcher_8
+    21300018: swedenArcher_9
+    21300020: swedenArcher_10
+    21300022: swedenArcher_11
+    21300024: swedenArcher_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 100
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: swedenArcher_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.59188807, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.34098, y: 84.552765}
+        - {x: -33.65902, y: 84.552765}
+        - {x: -68.65902, y: 26.552765}
+        - {x: -68.65902, y: -146.44724}
+        - {x: 25.34098, y: -146.44724}
+        - {x: 38.34098, y: -121.447235}
+        - {x: 40.34098, y: -88.447235}
+        - {x: 40.34098, y: 62.552765}
+    - name: swedenArcher_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.659027, y: 84.552765}
+        - {x: -68.65903, y: 14.552765}
+        - {x: -68.65903, y: -51.447235}
+        - {x: -52.659027, y: -132.44724}
+        - {x: -30.659027, y: -145.44724}
+        - {x: 30.340973, y: -145.44724}
+        - {x: 40.340973, y: -118.447235}
+        - {x: 40.340973, y: 84.552765}
+    - name: swedenArcher_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.659027, y: 84.552765}
+        - {x: -68.65903, y: 6.552765}
+        - {x: -68.65903, y: -34.447235}
+        - {x: -44.659027, y: -132.44724}
+        - {x: -33.659027, y: -144.44724}
+        - {x: 33.340973, y: -144.44724}
+        - {x: 40.340973, y: -122.447235}
+        - {x: 40.340973, y: 83.552765}
+        - {x: 38.340973, y: 84.552765}
+    - name: swedenArcher_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.340973, y: 84.552765}
+        - {x: -29.659027, y: 84.552765}
+        - {x: -68.65903, y: 20.552765}
+        - {x: -68.65903, y: -70.447235}
+        - {x: -54.659027, y: -141.44724}
+        - {x: -46.659027, y: -144.44724}
+        - {x: 8.340973, y: -144.44724}
+        - {x: 24.340973, y: -133.44724}
+        - {x: 40.340973, y: -15.447235}
+        - {x: 40.340973, y: 62.552765}
+    - name: swedenArcher_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.341003, y: -7.447235}
+        - {x: 40.341003, y: 69.552765}
+        - {x: 37.341003, y: 84.552765}
+        - {x: -25.658997, y: 84.552765}
+        - {x: -68.659, y: 14.552765}
+        - {x: -68.659, y: -66.447235}
+        - {x: -54.658997, y: -136.44724}
+        - {x: -31.658997, y: -142.44724}
+        - {x: -25.658997, y: -144.44724}
+        - {x: 4.3410034, y: -144.44724}
+        - {x: 21.341003, y: -137.44724}
+        - {x: 27.341003, y: -120.447235}
+        - {x: 28.341003, y: -113.447235}
+        - {x: 31.341003, y: -64.447235}
+    - name: swedenArcher_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.658997, y: 84.552765}
+        - {x: -68.659, y: 18.552765}
+        - {x: -68.659, y: -120.447235}
+        - {x: -66.659, y: -143.44724}
+        - {x: -64.659, y: -144.44724}
+        - {x: 28.341003, y: -144.44724}
+        - {x: 40.341003, y: -98.447235}
+        - {x: 40.341003, y: 80.552765}
+        - {x: 36.341003, y: 84.552765}
+    - name: swedenArcher_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.659, y: 84.552765}
+        - {x: -68.659, y: -144.44724}
+        - {x: 9.341003, y: -144.44724}
+        - {x: 23.341003, y: -129.44724}
+        - {x: 40.341003, y: -62.447235}
+        - {x: 40.341003, y: 84.552765}
+    - name: swedenArcher_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.341003, y: 11.552765}
+        - {x: 40.341003, y: 65.552765}
+        - {x: 35.341003, y: 84.552765}
+        - {x: -26.658997, y: 84.552765}
+        - {x: -68.659, y: -1.4472351}
+        - {x: -68.659, y: -56.447235}
+        - {x: -46.658997, y: -131.44724}
+        - {x: -30.658997, y: -144.44724}
+        - {x: 13.341003, y: -144.44724}
+        - {x: 26.341003, y: -128.44724}
+        - {x: 29.341003, y: -73.447235}
+        - {x: 32.341003, y: -19.447235}
+      - - {x: 44.341003, y: -15.447235}
+        - {x: 46.341003, y: -17.447235}
+        - {x: 47.341003, y: -17.447235}
+        - {x: 47.341003, y: -12.447235}
+        - {x: 45.341003, y: -12.447235}
+    - name: swedenArcher_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.658997, y: 84.552765}
+        - {x: -68.659, y: 4.552765}
+        - {x: -68.659, y: -66.447235}
+        - {x: -47.658997, y: -141.44724}
+        - {x: -25.658997, y: -144.44724}
+        - {x: 26.341003, y: -144.44724}
+        - {x: 40.341003, y: -139.44724}
+        - {x: 40.341003, y: 84.552765}
+      - - {x: 44.341003, y: -16.447235}
+        - {x: 46.341003, y: -18.447235}
+        - {x: 47.341003, y: -18.447235}
+        - {x: 47.341003, y: -10.447235}
+        - {x: 44.341003, y: -11.447235}
+    - name: swedenArcher_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.340942, y: 84.552765}
+        - {x: -68.65906, y: 84.552765}
+        - {x: -68.65906, y: -146.44724}
+        - {x: 28.340942, y: -146.44724}
+        - {x: 34.340942, y: -127.447235}
+        - {x: 40.340942, y: -49.447235}
+        - {x: 40.340942, y: 62.552765}
+    - name: swedenArcher_10
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.659058, y: 84.552765}
+        - {x: -56.659058, y: -144.44724}
+        - {x: 26.340942, y: -144.44724}
+        - {x: 45.340942, y: -85.447235}
+        - {x: 45.340942, y: 59.552765}
+        - {x: 37.340942, y: 84.552765}
+    - name: swedenArcher_11
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.659058, y: 84.552765}
+        - {x: -64.65906, y: 30.552765}
+        - {x: -64.65906, y: -91.447235}
+        - {x: -51.659058, y: -128.44724}
+        - {x: -45.659058, y: -144.44724}
+        - {x: 23.340942, y: -144.44724}
+        - {x: 43.340942, y: -78.447235}
+        - {x: 43.340942, y: 15.552765}
+        - {x: 15.340942, y: 84.552765}
+    - name: swedenArcher_12
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 116
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5918881, y: 0.6417256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.659058, y: 84.552765}
+        - {x: -52.659058, y: 83.552765}
+        - {x: -52.659058, y: -68.447235}
+        - {x: -50.659058, y: -126.447235}
+        - {x: -33.659058, y: -146.44724}
+        - {x: 41.340942, y: -146.44724}
+        - {x: 41.340942, y: 84.552765}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
